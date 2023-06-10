@@ -286,3 +286,16 @@ Port: 26237
 Password: "darinyrama"
 Secure: false
 ```
+Hosted by @ [Naiml007](https://github.com/Naiml007)
+
+```bash
+
+Host : g1.moonodes.net
+
+Port : 25012
+
+Password : "naimur"
+
+Secure : false
+
+```
